@@ -10,6 +10,9 @@ Open the file in Pycharm- PycharmCode\airbnb\tests\module\search\InterviewTest.p
 
 Assignment 2 & 3 :
 Navigate to the folder PycharmCode\filestest
-- Run the FilesComparisonDup.py file and find the output in PycharmCode\filestest_results folder
-- Run the GrossaryName.py file and find the output in PycharmCode\filestest_results folder
+- Run the PycharmCode\filetest\FilesComparisonDup.py file and find the output in PycharmCode\filestest_results folder
+- Run the PycharmCode\filetest\GrossaryName.py file and find the output in PycharmCode\filestest_results folder
 
+Assignment 4 :
+Install with the command: pip install jsonpath-rw jsonpath-rw-ext --user
+Run the file PycharmCode\filetest\ProductsCostTest.py and find the logs in PycharmCode\filestest_results folder

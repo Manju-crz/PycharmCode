@@ -1,0 +1,160 @@
+INFO:root:
+
+Product set at position 1
+==========================================
+
+INFO:root:Both files values of min is same
+ERROR:root:	 max values of file 1 is [7900] and file 2 is [20000]
+INFO:root:Both files values of from is same
+INFO:root:Both files values of to is same
+INFO:root:Both files values of scale is same
+INFO:root:
+
+Product set at position 2
+==========================================
+
+INFO:root:Both files values of min is same
+ERROR:root:	 max values of file 1 is [15800] and file 2 is [20000]
+INFO:root:Both files values of from is same
+ERROR:root:	 to values of file 1 is [40000] and file 2 is [20000]
+ERROR:root:	 scale values of file 1 is [10000] and file 2 is [5000]
+INFO:root:
+
+Product set at position 3
+==========================================
+
+ERROR:root:	 min values of file 1 is [2500] and file 2 is [0]
+ERROR:root:	 max values of file 1 is [7900] and file 2 is [20000]
+INFO:root:Both files values of from is same
+ERROR:root:	 to values of file 1 is [50000] and file 2 is [20000]
+ERROR:root:	 scale values of file 1 is [20000] and file 2 is [5000]
+INFO:root:
+
+Product set at position 4
+==========================================
+
+ERROR:root:	 min values of file 1 is [3750] and file 2 is [0]
+ERROR:root:	 max values of file 1 is [15800] and file 2 is [20000]
+INFO:root:Both files values of from is same
+ERROR:root:	 to values of file 1 is [100000] and file 2 is [20000]
+ERROR:root:	 scale values of file 1 is [20000] and file 2 is [5000]
+INFO:root:
+
+Product set at position 5
+==========================================
+
+INFO:root:Both files values of min is same
+ERROR:root:	 max values of file 1 is [50] and file 2 is [20000]
+INFO:root:Both files values of from is same
+ERROR:root:	 to values of file 1 is [100] and file 2 is [20000]
+ERROR:root:	 scale values of file 1 is [10] and file 2 is [5000]
+INFO:root:
+
+Product set at position 6
+==========================================
+
+INFO:root:Both files values of min is same
+ERROR:root:	 max values of file 1 is [50] and file 2 is [20000]
+INFO:root:Both files values of from is same
+ERROR:root:	 to values of file 1 is [100] and file 2 is [20000]
+ERROR:root:	 scale values of file 1 is [10] and file 2 is [5000]
+INFO:root:
+
+Product set at position 7
+==========================================
+
+ERROR:root:	 min values of file 1 is [0] and file 2 is [100]
+ERROR:root:	 max values of file 1 is [500] and file 2 is [1000]
+INFO:root:Both files values of from is same
+ERROR:root:	 to values of file 1 is [1000] and file 2 is [20000]
+ERROR:root:	 scale values of file 1 is [100] and file 2 is [5000]
+INFO:root:
+
+Product set at position 8
+==========================================
+
+ERROR:root:	 min values of file 1 is [3750] and file 2 is [100]
+ERROR:root:	 max values of file 1 is [15800] and file 2 is [1000]
+INFO:root:Both files values of from is same
+ERROR:root:	 to values of file 1 is [100000] and file 2 is [20000]
+ERROR:root:	 scale values of file 1 is [20000] and file 2 is [5000]
+INFO:root:
+
+Product set at position 9
+==========================================
+
+ERROR:root:	 min values of file 1 is [2500] and file 2 is [100]
+ERROR:root:	 max values of file 1 is [7900] and file 2 is [1000]
+INFO:root:Both files values of from is same
+ERROR:root:	 to values of file 1 is [50000] and file 2 is [20000]
+ERROR:root:	 scale values of file 1 is [20000] and file 2 is [5000]
+INFO:root:
+
+Product set at position 10
+==========================================
+
+INFO:root:Both files values of min is same
+ERROR:root:	 max values of file 1 is [15800] and file 2 is [20000]
+INFO:root:Both files values of from is same
+ERROR:root:	 to values of file 1 is [40000] and file 2 is [20000]
+ERROR:root:	 scale values of file 1 is [10000] and file 2 is [5000]
+INFO:root:
+
+Product set at position 11
+==========================================
+
+INFO:root:Both files values of min is same
+ERROR:root:	 max values of file 1 is [7900] and file 2 is [20000]
+INFO:root:Both files values of from is same
+INFO:root:Both files values of to is same
+INFO:root:Both files values of scale is same
+INFO:root:
+
+Product set at position 12
+==========================================
+
+INFO:root:Both files values of min is same
+ERROR:root:	 max values of file 1 is [50] and file 2 is [20000]
+INFO:root:Both files values of from is same
+ERROR:root:	 to values of file 1 is [100] and file 2 is [20000]
+ERROR:root:	 scale values of file 1 is [10] and file 2 is [5000]
+INFO:root:
+
+Product set at position 13
+==========================================
+
+ERROR:root:	 min values of file 1 is [3750] and file 2 is []
+ERROR:root:	 max values of file 1 is [15800] and file 2 is []
+ERROR:root:	 from values of file 1 is [0] and file 2 is []
+ERROR:root:	 to values of file 1 is [100000] and file 2 is []
+ERROR:root:	 scale values of file 1 is [20000] and file 2 is []
+INFO:root:
+
+Product set at position 14
+==========================================
+
+ERROR:root:	 min values of file 1 is [2500] and file 2 is []
+ERROR:root:	 max values of file 1 is [7900] and file 2 is []
+ERROR:root:	 from values of file 1 is [0] and file 2 is []
+ERROR:root:	 to values of file 1 is [50000] and file 2 is []
+ERROR:root:	 scale values of file 1 is [20000] and file 2 is []
+INFO:root:
+
+Product set at position 15
+==========================================
+
+ERROR:root:	 min values of file 1 is [0] and file 2 is []
+ERROR:root:	 max values of file 1 is [15800] and file 2 is []
+ERROR:root:	 from values of file 1 is [0] and file 2 is []
+ERROR:root:	 to values of file 1 is [40000] and file 2 is []
+ERROR:root:	 scale values of file 1 is [10000] and file 2 is []
+INFO:root:
+
+Product set at position 16
+==========================================
+
+ERROR:root:	 min values of file 1 is [0] and file 2 is []
+ERROR:root:	 max values of file 1 is [7900] and file 2 is []
+ERROR:root:	 from values of file 1 is [0] and file 2 is []
+ERROR:root:	 to values of file 1 is [20000] and file 2 is []
+ERROR:root:	 scale values of file 1 is [5000] and file 2 is []
