@@ -1,0 +1,11 @@
+{
+	"NA": ["NA", "In Network", "Preferred Network 1", "Preferred Network 2", "Preferred Network 3"],
+	"In Network": ["In Network", "NA", "Preferred Network 1", "Preferred Network 2", "Preferred Network 3"],
+	"Out of Network": ["Out of Network", "In Network", "Preferred Network 1", "Preferred Network 2", "Preferred Network 3", "NA"],
+	"Out of Area": ["Out of Area", "In Network", "Preferred Network 1", "Preferred Network 2", "Preferred Network 3", "NA"],
+	"Out of Country": ["Out of Country", "Out of Area", "Preferred Network 3", "Preferred Network 2", "Preferred Network 1", "In Network", "NA"],
+	"Preferred Network 1": ["Preferred Network 1", "In Network", "Preferred Network 2", " Preferred Network 3", "NA"],
+	"Preferred Network 2": ["Preferred Network 2", "Preferred Network 1", "Preferred Network 3", "In Network", "NA"],
+	"Preferred Network 3": ["Preferred Network 3", "Preferred Network 2", "Preferred Network 1", "In Network", "NA"],
+	"Coverage": ["Coverage", "In Network", "Preferred Network 1", "Preferred Network 2", "Preferred Network 3", "NA"]
+}
